@@ -1,0 +1,19 @@
+D:\WebRental\WebRental\bin\WebRental.dll
+D:\WebRental\WebRental\bin\WebRental.pdb
+D:\WebRental\WebRental\obj\Debug\RdlCompile.cache
+D:\WebRental\WebRental\obj\Debug\RdlCompile.compiled
+D:\WebRental\WebRental\obj\Debug\WebRental.dll
+D:\WebRental\WebRental\obj\Debug\WebRental.pdb
+H:\Semester 4\PV\modul 12\UGD12_PV_7923\WebRental\bin\WebRental.dll
+H:\Semester 4\PV\modul 12\UGD12_PV_7923\WebRental\bin\WebRental.pdb
+H:\Semester 4\PV\modul 12\UGD12_PV_7923\WebRental\obj\Debug\RdlCompile.cache
+H:\Semester 4\PV\modul 12\UGD12_PV_7923\WebRental\obj\Debug\RdlCompile.compiled
+H:\Semester 4\PV\modul 12\UGD12_PV_7923\WebRental\obj\Debug\WebRental.dll
+H:\Semester 4\PV\modul 12\UGD12_PV_7923\WebRental\obj\Debug\WebRental.pdb
+D:\KULIAH\semester 4\PV\modul 12\UGD12_PV_7923\WebRental\bin\WebRental.dll
+D:\KULIAH\semester 4\PV\modul 12\UGD12_PV_7923\WebRental\bin\WebRental.pdb
+D:\KULIAH\semester 4\PV\modul 12\UGD12_PV_7923\WebRental\obj\Debug\WebRental.csprojResolveAssemblyReference.cache
+D:\KULIAH\semester 4\PV\modul 12\UGD12_PV_7923\WebRental\obj\Debug\RdlCompile.cache
+D:\KULIAH\semester 4\PV\modul 12\UGD12_PV_7923\WebRental\obj\Debug\RdlCompile.compiled
+D:\KULIAH\semester 4\PV\modul 12\UGD12_PV_7923\WebRental\obj\Debug\WebRental.dll
+D:\KULIAH\semester 4\PV\modul 12\UGD12_PV_7923\WebRental\obj\Debug\WebRental.pdb
